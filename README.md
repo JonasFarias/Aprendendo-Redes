@@ -179,3 +179,6 @@ C - 192.168.0.0 -> 192.168.255.255
 
 
 Obs. classe a,b e c reservado para redes internas
+
+
+
