@@ -72,7 +72,7 @@ Nesta topologia cada estação está conectada a apenas duas outras estações, 
 
 
 
-### MEIOS DE TRANSMISSÃO ###
+# MEIOS DE TRANSMISSÃO #
 
 ESCREVER DEPOIS SOBRE OS TIPOS DE CABOS
 
