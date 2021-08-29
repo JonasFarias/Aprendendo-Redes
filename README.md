@@ -3,7 +3,8 @@
 
 CONCEITOS BÁSICOS DE REDE
 
-Comunicação de dados é a troca de informação entre dois dispositivos através de algum meio de comunicação como, por exemplo, um par e fios. 
+Comunicação de dados é a troca de informação entre dois dispositivos através de algum meio de comunicação como, por exemplo, um par de fios.
+
 Um sistema básico de comunicação de dados é composto por cinco elementos:
 
 	São eles:
