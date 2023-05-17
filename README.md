@@ -1,10 +1,43 @@
-# REDES #
+# REDES 
 
+## O QUE É UMA REDE
+	Basicamente uma rede serve para conectar dois pontos
+
+Abaixo vamos ver como essa conexão pode ser feita.
+
+
+#### OBJETIVOS DE UMA REDE
+
+1. Acesso de dados.(Ex: arquivos)
+2. Compartilhamento de Recursos.(Ex: Internet, Impressora)
+3. Administração Centralizada (Ex: usuário, permissões)
+
+### CLASSIFICAÇÕES DE REDES QUANTO À ABRANGÊNCIA
+
+As redes podem ser classificadas quanto ao seu tamanho físico.
+* Nanorredes
+* NFC (Near Field Communication ou Comunicação de campo próximo)
+* BAN (Body Area Network ou Rede de área corporal)
+* PAN (Personal Area Network ou Rede de área pessoal)
+* WPAN (Wireless Personal Area Network ou Rede de área pessoal sem fio)
+* NAN (Near-me Area Network ou Rede de área próxima a mim)
+* LAN (Local Area Network ou Rede local)
+* WLAN (Wireless Local Area Network ou Rede local sem fio)
+* HAN (Home Area Network ou Rede caseira)
+* SAN (Storage Area Network ou Rede de armazenamento)
+* CAN (Campus Area Network ou Rede de campo ou rede de campus)
+* MAN (Metropolitan Area Network ou Rede metropolitana)
+* WAN (Wide Area Network ou Rede de longo alcance)
+* GAN (Global Area Network ou Internet)
+* IAN (Internet Area Network ou Rede de área de Internet)
+* Rede interplanetária\
+\
+Nuvem
+Uso de recursos de uma rede cuja localização física é desconhecida
 
 CONCEITOS BÁSICOS DE REDE
 
 Comunicação de dados é a troca de informação entre dois dispositivos através de algum meio de comunicação como, por exemplo, um par de fios.
-
 Um sistema básico de comunicação de dados é composto por cinco elementos:
 
 	São eles:
@@ -145,6 +178,8 @@ A camada de aplicação corresponde às aplicações (programas) no topo da cama
 Tudo nesta camada é relacionado ao software. Alguns protocolos utilizados nesta camada são: HTTP, SMTP, FTP, Telnet, SIP, RDP, IRC, SNMP, NNTP, POP3, IMAP, BitTorrent, DNS, ICMP.
 
 
+
+## INTRODUÇÃO A PILHA DE PROTOCOLOS TCP/IP
 
 
 
