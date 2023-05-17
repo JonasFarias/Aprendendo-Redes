@@ -14,6 +14,8 @@ Abaixo vamos ver como essa conexão pode ser feita.
 
 ### CLASSIFICAÇÕES DE REDES QUANTO À ABRANGÊNCIA
 
+Uma das características mais utilizadas para a classificação das redes é a sua abrangência geográfica. Assim, é convencionada a seguinte classificação:
+
 As redes podem ser classificadas quanto ao seu tamanho físico.
 * Nanorredes
 * NFC (Near Field Communication ou Comunicação de campo próximo)
@@ -30,10 +32,13 @@ As redes podem ser classificadas quanto ao seu tamanho físico.
 * WAN (Wide Area Network ou Rede de longo alcance)
 * GAN (Global Area Network ou Internet)
 * IAN (Internet Area Network ou Rede de área de Internet)
-* Rede interplanetária\
-\
-Nuvem
-Uso de recursos de uma rede cuja localização física é desconhecida
+* Rede interplanetária
+* Nuvem (Uso de recursos de uma rede cuja localização física é desconhecida
+
+### INTERNET
+Rede mundial de computadores é uma rede pública de alcance global (GAN - GLOBAL AREA NETWORK)
+a internet é uma rede de computadores interligadas, dai seu nome, redes interligadas.
+A internet é uma rede publica, qualquer pessoa pode ter acesso 
 
 CONCEITOS BÁSICOS DE REDE
 
@@ -68,13 +73,7 @@ Emissor                             Receptor
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-# CLASSIFICAÇÃO DAS REDES #
 
-Uma das características mais utilizadas para a classificação das redes é a sua abrangência geográfica. Assim, é convencionada a seguinte classificação:
-
-1.  LAN's (Local Area Networks) -Redes locais.
-2.  MAN's (Metopolitan Area Networks) - Metropolitanas.
-3.  WAN's (Wide Area Networks) - Geograficamente distribuídas.
 
 
 
